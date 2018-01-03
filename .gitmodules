@@ -1,0 +1,9 @@
+[submodule "subprojects/lo_test"]
+	path = subprojects/lo_test
+	url = https://github.com/willwray/lo_test
+[submodule "subprojects/lo_strings"]
+	path = subprojects/lo_strings
+	url = https://github.com/willwray/lo_strings
+[submodule "subprojects/lo_adder"]
+	path = subprojects/lo_adder
+	url = https://github.com/willwray/lo_adder
